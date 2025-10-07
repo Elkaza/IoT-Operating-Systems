@@ -10,3 +10,5 @@ Student ID string: **io25m25**
 4. [Task 4 â€” DHT22 + Serial Queue](./task4-dht22-serial-queue/)
 
 Each task includes: code, wiring notes, build steps, and proof screenshots.
+
+5. [Task 5 — BLE DHT22 + Notifications](BLE-DHT22-FreeRTOS/)
